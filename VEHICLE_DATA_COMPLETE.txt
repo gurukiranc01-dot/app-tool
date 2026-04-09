@@ -1,0 +1,278 @@
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                   7 VEHICLES - COMPLETE DATA PACKAGE                            ║
+║              INSTRUMENTATION (MECHANICAL & ELECTRICAL) + IMAGES                 ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VEHICLE 1: TVS Apache RTR 160
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 BASIC INFO:
+  RC: MH02AB0001 | Owner: Jodhbhai | Received: 2026-04-01
+
+🔧 MECHANICAL INSTRUMENTATION:
+  Type: Mechanical
+  Activity: Engine & Transmission Testing
+  Request Date: 2026-04-01
+  Completion Date: 2026-04-05
+  Details: Engine performance test completed. Compression: 180-185 PSI (Normal). 
+           Transmission shifts smoothly across all gears. No grinding noise detected.
+           Clutch engagement smooth and progressive. Chain tension: 40-45mm slack (Within limits).
+           Spark plug condition: Good. Air filter: Clean.
+
+⚡ ELECTRICAL INSTRUMENTATION:
+  Type: Electrical
+  Activity: Electrical System Testing
+  Request Date: 2026-04-01
+  Completion Date: 2026-04-06
+  Details: Battery voltage: 12.5V (Normal). Alternator charging: 14.2V (Normal).
+           All lights functional: Headlight, Taillight, Indicator lights. 
+           Horn operation: Loud and clear. Starter motor: Cranks smoothly.
+           Ignition system: Functional. Wiring harness: No visible damage.
+
+📸 IMAGE: TVS_Apache_RTR160_Front.jpg
+   Description: Red sports bike, front view, good lighting showing grille and headlight
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VEHICLE 2: Hero Honda CB Shine
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 BASIC INFO:
+  RC: MH02AB0002 | Owner: Rajesh Kumar | Received: 2026-03-28
+
+🔧 MECHANICAL INSTRUMENTATION:
+  Type: Mechanical
+  Activity: Engine Performance & Fault Finding
+  Request Date: 2026-03-28
+  Completion Date: 2026-04-02
+  Details: Engine compression test: 170-175 PSI (Normal for age). Carburetor settings verified.
+           Fuel consumption: 65 km/l under normal riding. Throttle response: Smooth.
+           Suspension front: No leakage. Rear suspension: Springs in good condition.
+           Brake system: Both mechanical brakes functioning properly. Pad thickness: Adequate.
+           Front wheel balance: Verified. Chain wear: Minimal.
+
+⚡ ELECTRICAL INSTRUMENTATION:
+  Type: Electrical
+  Activity: Lighting & Charging System Check
+  Request Date: 2026-03-28
+  Completion Date: 2026-04-03
+  Details: Battery health: 12.4V, CCA capacity adequate. Alternator output: 13.8V (Good).
+           Headlight brightness: High beam 45W, Low beam 35W (Both operational).
+           Tail light: 5W LED, bright. Turn signals: All four blinking at correct frequency.
+           Horn: Working properly. Speedometer: Accurate within ±5%. Odometer: Functional.
+
+📸 IMAGE: Hero_CB_Shine_Side.jpg
+   Description: Silver/Blue commuter bike, side profile showing CB Shine branding
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VEHICLE 3: Bajaj Pulsar NS200
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 BASIC INFO:
+  RC: MH02AB0003 | Owner: Anil Patel | Received: 2026-04-02
+
+🔧 MECHANICAL INSTRUMENTATION:
+  Type: Mechanical
+  Activity: Full Engine Diagnostics & NBT Testing
+  Request Date: 2026-04-02
+  Completion Date: 2026-04-08
+  Details: Engine compression: 185-190 PSI (Excellent). Valve clearances verified per spec.
+           Fuel intake manifold: Clean. 4-stroke cycle confirmed via borescope inspection.
+           Transmission engagement points: Smooth throughout rpm range.
+           Cooling system: Thermostat operation verified. Coolant condition: Dark but circulating.
+           Exhaust emissions: Black smoke minimal. Engine knock test: Passed with 91 octane.
+           Vibration analysis: Normal at idle and cruising speeds.
+
+⚡ ELECTRICAL INSTRUMENTATION:
+  Type: Electrical
+  Activity: Advanced Electrical System Performance Testing
+  Request Date: 2026-04-02
+  Completion Date: 2026-04-09
+  Details: Battery: 12.6V fresh charge, dual battery design verified. Charging circuit: 14.1V nominal.
+           Engine ECU communication: Successful. OBD port: Scanner connected, no error codes P0000.
+           LED headlight: High intensity, no flickering. LED taillight: Bright and responsive.
+           Digital speedometer: Precise to calibrated gauge. Fuel gauge: Accurate within ±1 bar.
+           Turn signals: Smart indicators responding correctly to handlebar inputs.
+
+📸 IMAGE: Bajaj_Pulsar_NS200_Front.jpg
+   Description: Black sports bike with aggressive styling, front 3/4 view
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VEHICLE 4: Yamaha FZ Version 3.0
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 BASIC INFO:
+  RC: MH02AB0004 | Owner: Vikram Singh | Received: 2026-03-25
+
+🔧 MECHANICAL INSTRUMENTATION:
+  Type: Mechanical
+  Activity: Chassis & Suspension Testing
+  Request Date: 2026-03-25
+  Completion Date: 2026-03-31
+  Details: Compression test: 180-185 PSI (Good). Cylinder bore: No scoring observed via scope.
+           Clutch friction plates: Wear within acceptable limits. Clutch lever feel: Progressive.
+           Front suspension damping: Tested via bounce test - normal resistance and rebound.
+           Rear monoshock: Preload adjustable, compression/rebound damping functional.
+           Braking force front/rear: Proportionate, ABS not triggering prematurely.
+           Frame alignment: Verified via straightness measurement, geometry intact.
+
+⚡ ELECTRICAL INSTRUMENTATION:
+  Type: Electrical
+  Activity: Instrument Panel & Safety System Check
+  Request Date: 2026-03-25
+  Completion Date: 2026-04-01
+  Details: Battery capacity: 11Ah, voltage 12.5V under load. ABS module: Responding to test inputs.
+           Fuel pump relay: Energizing within 0.5 sec of ignition. Injectors: Spray pattern verified.
+           Tachometer accuracy: Verified against RPM gauge, ±2% accuracy achieved.
+           Warning lights: All functional - Oil pressure, Battery charge, ABS status.
+           Kill switch: Both stop and run positions working correctly.
+
+📸 IMAGE: Yamaha_FZ_Side.jpg
+   Description: Dark blue/black commuter bike, side view showing FZ branding
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VEHICLE 5: Royal Enfield Classic 350
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 BASIC INFO:
+  RC: MH02AB0005 | Owner: Deepak Sharma | Received: 2026-04-03
+
+🔧 MECHANICAL INSTRUMENTATION:
+  Type: Mechanical
+  Activity: Big Bike Comprehensive Testing
+  Request Date: 2026-04-03
+  Completion Date: 2026-04-09
+  Details: Single cylinder 350cc compression: 190-195 PSI (Excellent for this engine).
+           Cast iron cylinder: No cracks observed. Pistion ring sealing: Good clearance.
+           Crankshaft balance: Verified via dial indicator, within tolerance.
+           Gear box ratios: All 5 gears engaging smoothly, no jumping under load test.
+           Clutch performance: Cable operated, smooth engagement. Pull force within spec.
+           Fuel tank capacity: 13L verified, no leaks detected during pressurized test.
+           Tires: Michelin or equivalent, tread depth 4mm, inflation @ 36/40 PSI (F/R).
+
+⚡ ELECTRICAL INSTRUMENTATION:
+  Type: Electrical
+  Activity: Classic Engine Electrical System Assessment
+  Request Date: 2026-04-03
+  Completion Date: 2026-04-10
+  Details: Magneto ignition system: Spark plug gap verified 0.8mm. Coil resistance: 6-8 ohms.
+           Battery: 12V 18Ah, specific gravity 1.260-1.280 (Good). Charging at idle: 13.6V.
+           Alternator: Single phase AC output 35W at 1000rpm verified by oscilloscope.
+           Lights: Headlight 35W at full brightness. Tail/stop lamp working dual function.
+           Horn: Loud and clear. Instruments: Simple analog speedo, functional odometer.
+
+📸 IMAGE: Royal_Enfield_Classic_Front.jpg
+   Description: Cream/Black classic cruiser, front view showing round headlight
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VEHICLE 6: Honda CB Shine 125
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 BASIC INFO:
+  RC: MH02AB0006 | Owner: Priya Verma | Received: 2026-03-30
+
+🔧 MECHANICAL INSTRUMENTATION:
+  Type: Mechanical
+  Activity: Fuel Efficiency & Reliability Testing
+  Request Date: 2026-03-30
+  Completion Date: 2026-04-05
+  Details: Engine block temperature: Operating at 85-90°C normal range. Oil circulation: Normal.
+           Compression ratio verified: 10.0:1 (as spec). Fuel consumption test: 68 km/l confirmed.
+           Vibration levels: Low frequency at cruise, acceptable for 125cc class.
+           Exhaust system: No leaks, silencer condition good. Emission smell: Normal hydrocarbon.
+           Drive chain: Lubrication adequate, wear minimal. Sprocket teeth: Good condition.
+           Brake pads: Approximately 70% remaining. Pad material: Semi-metallic type.
+
+⚡ ELECTRICAL INSTRUMENTATION:
+  Type: Electrical
+  Activity: Safety Features & Light System Test
+  Request Date: 2026-03-30
+  Completion Date: 2026-04-06
+  Details: Battery: 12V 5Ah, specific gravity 1.270 (Good health). Self-discharge: Less than 1% per day.
+           Charging system: Output 14V at 1500rpm (Honda regulated). Voltage regulator: Functional.
+           LED lights: Headlight color temperature 6000K (White), brightness 35W equivalent.
+           Tail LED: Red 5W, brightness uniform across lamp. Turn signals: Amber 10W each.
+           Digital instruments: Hour meter accurate, fuel gauge responsive to tank level.
+           ECU: Basic fuel injection management, no fault codes stored.
+
+📸 IMAGE: Honda_CB_Shine_Front.jpg
+   Description: Silver commuter bike, front view showing CB Shine logo
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+VEHICLE 7: Suzuki Gixxer 155
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 BASIC INFO:
+  RC: MH02AB0007 | Owner: Arjun Desai | Received: 2026-04-04
+
+🔧 MECHANICAL INSTRUMENTATION:
+  Type: Mechanical
+  Activity: Performance & Power Delivery Mapping
+  Request Date: 2026-04-04
+  Completion Date: 2026-04-10
+  Details: Dynamic compression: 185-188 PSI at cranking speed. Peak compression post-ignition: 12 bar.
+           Fuel injection timing: Advanced 35° BTDC, retard at idle 5° BTDC (Optimal).
+           Throttle body bore: 28mm, smooth diameter. Fuel flow rate: 25 ml/min at 43 PSI.
+           Transmission smooth shifts: No grinding between adjacent gear ratios.
+           Final drive sprockets: 15T front, 45T rear verified. Gear ratio progression: 4.2, 2.4, 1.75, 1.4.
+           Handling characteristics: Wheelbase 1370mm, rake/trail adequate for stability and agility.
+
+⚡ ELECTRICAL INSTRUMENTATION:
+  Type: Electrical
+  Activity: Engine Management & Digital System Test
+  Request Date: 2026-04-04
+  Completion Date: 2026-04-11
+  Details: ECU: Suzuki Ride by Wire system responding linearly to throttle position 0-100%.
+           Fuel injection: 4-hole injector spray pattern symmetrical. Injection duration: 3.2ms at idle.
+           Ignition coils: Primary resistance 0.5 ohm, secondary 8.5K ohm (Normal range).
+           Oxygen sensor: Cross-over voltage 0.5V, response time <100ms (Good catalyst activity).
+           Digital display: LCD speedometer/odometer/trip meter all functioning. Backlight: Bright.
+           Charging output: 14.2V at fast idle, maintained under load. Battery: 12V 11Ah capacity verified.
+
+📸 IMAGE: Suzuki_Gixxer_155_Side.jpg
+   Description: Black sports-commuter bike, side view showing Gixxer styling
+
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                           ACTIVITY LOGS                                        ║
+║                    (Add 4 activities per vehicle)                              ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+
+🎯 ACTIVITY LOG TEMPLATE FOR ALL 7 VEHICLES:
+
+Activity 1:
+  Date: [Received On Date]
+  Description: Vehicle received and initial inspection completed
+  Performed By: admin
+
+Activity 2:
+  Date: [Received On Date + 1 day]
+  Description: Mechanical testing started - Engine, Transmission, Suspension analysis initiated
+  Performed By: admin
+
+Activity 3:
+  Date: [Received On Date + 2 days]
+  Description: Electrical testing completed - All systems operational, charging verified
+  Performed By: admin
+
+Activity 4:
+  Date: [Received On Date + 3 days]
+  Description: Performance data collection and comprehensive report generation completed
+  Performed By: admin
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📸 IMAGES GUIDE:
+
+All images should show:
+  ✅ Front view or 3/4 view of the bike
+  ✅ Clear, well-lit photography
+  ✅ Good focus on the vehicle
+  ✅ Professional quality (minimum 1024x768)
+
+You can use:
+  • Photos from Google Images of the actual models
+  • Professional motorcycle photography
+  • Clear dealership photos
+  • Just need any representative image of each bike model
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
